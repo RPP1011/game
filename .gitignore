@@ -1,0 +1,14 @@
+# Rust specific
+/target/
+/Cargo.lock
+
+# General
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+.DS_Store
+.idea/
+.vscode/
+*.rs.bk
